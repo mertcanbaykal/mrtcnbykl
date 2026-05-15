@@ -14,4 +14,4 @@
 - [Neon Fusion](https://github.com/mertcanbaykal/mrtcnbykl.NeonFusion)
 
 ### Yazı Tipi
-- [VCR_OSD_Mono_with_Turkic_Cyrillic)](https://github.com/mertcanbaykal/mrtcnbykl.VCR_OSD_Mono_with_Turkic_Cyrillic)
+- [VCR_OSD_Mono_with_Turkic_Cyrillic](https://github.com/mertcanbaykal/mrtcnbykl.VCR_OSD_Mono_with_Turkic_Cyrillic)
