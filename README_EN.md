@@ -12,3 +12,6 @@
 
 - [Cyberpunk Survivor](https://github.com/mertcanbaykal/mrtcnbykl.CyberpunkSurvivor)
 - [Neon Fusion](https://github.com/mertcanbaykal/mrtcnbykl.NeonFusion)
+
+### Font
+- [VCR_OSD_Mono_with_Turkic_Cyrillic](https://github.com/mertcanbaykal/mrtcnbykl.VCR_OSD_Mono_with_Turkic_Cyrillic)
