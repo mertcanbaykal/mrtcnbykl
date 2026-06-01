@@ -13,10 +13,5 @@
 - [Cyberpunk Survivor](https://github.com/mertcanbaykal/mrtcnbykl.CyberpunkSurvivor)
 - [Neon Fusion](https://github.com/mertcanbaykal/mrtcnbykl.NeonFusion)
 
-###### *Neon Fusion'daki Tanıtı Sunucuları İçin*
-
-- [app-ads.txt](https://github.com/mertcanbaykal/mrtcnbykl/blob/main/app-ads.txt)
-
-
 ### Yazı Tipi
 - [VCR_OSD_Mono_with_Turkic_Cyrillic](https://github.com/mertcanbaykal/mrtcnbykl.VCR_OSD_Mono_with_Turkic_Cyrillic)
